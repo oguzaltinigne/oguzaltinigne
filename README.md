@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi👋
+I'm Oğuzhan and I'm a freshman at Bilkent University CS department.
 <!--
 **oguzaltinigne/oguzaltinigne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
